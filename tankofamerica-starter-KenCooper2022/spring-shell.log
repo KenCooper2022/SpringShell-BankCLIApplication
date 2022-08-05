@@ -1,0 +1,160 @@
+1657009982720:--help
+1657009987026:-help
+1657010012328:stacktrace
+1657010036912:CREATE user -c
+1657010910095:--help
+1657010973208:create a new User  "Kenneth" "Cooper" "k@gmail.com" "password"
+1657010980551:--
+1657010983195:-help
+1657011604961:help
+1657011647027:create-new-user "Ken" "Cooper" "ken@gmail.com" "password"
+1657011828424:create-new-user -F Ken -L Cooper -e ken@gmail.com -P password
+1657011862279:create-new-user -F Ken -L Cooper -E ken@gmail.com -P password
+1657012097464:help
+1657012103260:get-all-users
+1657012123386:create-new-account 1 kenAccount
+1657012136707:help
+1657012195159:deposit 1,10.00
+1657012381445:help
+1657012406347:deposit -U 1 -V 10.00
+1657012421494:view-balance 1
+1657012509216:deposit -U 1 -V 10.00
+1657012515097:view-balance 1
+1657012573408:deposit -U 1 -V 10.00
+1657012578133:view-balance 1
+1657012706129:help
+1657012717257:deposit 1 10.00
+1657012814149:deposit 1 10.0
+1657012834838:stack trace
+1657012874621:stacktrace
+1657012902018:deposit 1 10.00
+1657012905307:stacktrace
+1657013003286:deposit 1 10.0
+1657013008115:stacktrace
+1657013084279:view-balance 1
+1657014295873:deposit 1 10.0
+1657286182425:help
+1657286268907:stacktrace
+1657286283414:help
+1657286291267:view-accounts
+1657286556942:deposit 1 10.0
+1657286645044:view-accounts
+1657286649420:view-account
+1657286654768:view account 1
+1657286659148:help
+1657286671078:user-accounts
+1657286676123:user-accounts 1
+1657286736944:get-all-user
+1657286743895:get-all-users
+1657286914372:history
+1657286922488:deposit 1 10.00
+1657288008719:help
+1657288023722:view-balance 1
+1657289561172:help
+1657289612102:create-new-user: "Ken" "Cooper" "ken@gmail.com" "password"
+1657289631642:help
+1657289636798:get-all-users
+1657290843883:help
+1657291008938:user-accounts
+1657291013599:user-accounts 1
+1657291023237:view-balance 1
+1657291239171:help
+1657291242837:get-all-users
+1657291264277:user-accounts
+1657291268130:user-accounts 1
+1657291286865:get-all-users
+1657291336704:create-new-account: "Ken newKenAccount "
+1657291354856:create-new-account "ken ken"
+1657291470312:view-balance 1
+1657291514400:create-account: 1 "Ken"
+1657291533592:create-new-account: 1 "Ken"
+1657291573600:create-new-account: -U 1 -N 'Ken'
+1657292555598:view-balance 1
+1657303353026:help
+1657303364160:view-balance 1
+1657303410831:view-balance
+1657303416693:view-blance 1
+1657303425576:view-balance 1
+1657530708992:help
+1657530751284:view-balance 1 c84947d0-e930-4379-9e78-8d7363e0128a
+1657530792584:view-balance: 1 c84947d0-e930-4379-9e78-8d7363e0128a
+1657530834468:help
+1657530849985:view-balance: 1 c84947d0-e930-4379-9e78-8d7363e0128a
+1657530884262:c84947d0 -U 1 -A e930-4379-9e78-8d7363e0128a
+1657531569523:view-balance: 1     public UserNotFoundException(String message) {
+1657531593950:view-balance: 1 c84947d0-e930-4379-9e78-8d7363e0128a
+1657531601565:help
+1657531628684:view-balance: 1 c84947d0-e930-4379-9e78-8d7363e0128a
+1657531707433:stacktrace
+1657531725393:view-balance: 1 "c84947d0-e930-4379-9e78-8d7363e0128a"
+1657531737908:view-balance
+1657531747885:view-balance 1
+1657531757794:view-balance 1 c84947d0-e930-4379-9e78-8d7363e0128a
+1657532157440:create-account
+1657532164904:help
+1657532170845:create-new-account
+1657532176653:create-user
+1657532185949:create-new-user
+1657532195455:create-new-user Ben
+1657532204436:create-new-user Ben Cooper
+1657532218337:creat-new-user Ben Cooper Ben@gmail.com
+1657532239622:create-new-user Ben cooper Ben@gmail.com
+1657532465255:create-new-user Ben Cooper Ben@gmail.com 0.0
+1657532529423:get-all-users
+1657532568741:create-new-account
+1657532574769:create-new-account 2
+1657532584846:create-new-account 2 BenAccount
+1657532596174:create-new-account 2 BenAccount 0.0
+1657532607604:view-balance
+1657532612472:view-balance 2
+1657532618496:view -balance 2 3eefbbda-9df2-4aa9-a9b4-604b3213a3a7
+1657532628686:view-balance 2
+1657532635647:view-balance 2 3eefbbda-9df2-4aa9-a9b4-604b3213a3a7
+1657533465400:view-balance 2    Account account = getById(uuid);
+1657533483194:view-balance 2 c84947d0-e930-4379-9e78-8d7363e0128a
+1657533681198:create-new-user Tren Cooper T@gmail password2
+1657533692078:create-new-account 3 TrenAccount 0.0
+1657533716368:view-balance 3 c1f38e9d-d493-4faa-8c96-5e108006cfbe
+1657533828195:create-new-user Ken Cooper ken@gmail.com password
+1657533846444:create-new-account 4 KenAccount 0.0
+1657533859293:view-balance 4 eec96b97-a023-4b5b-bd86-14e6328d78b3
+1657537192520:get-all-accounts
+1657537194693:help
+1657537206308:user-accounts
+1657537233973:user-accounts 1
+1657537238885:user-account 2
+1657537247015:user-accounts 2
+1657537263965:view-balance 2 3eefbbda-9df2-4aa9-a9b4-604b3213a3a7
+1657537417239:user-account 4
+1657537434387:user-accounts 4
+1657537447984:view-balance 4 eec96b97-a023-4b5b-bd86-14e6328d78b3
+1657537489416:stacktrace
+1657537549927:view-balance 4 eec96b97-a023-4b5b-bd86-14e6328d78b3
+1657537940988:view-balance eec96b97-a023-4b5b-bd86-14e6328d78b3
+1657537965833:desposit 4 eec96b97-a023-4b5b-bd86-14e6328d78b3
+1657537971874:deposit
+1657545507453:view-balance 3 c1f38e9d-d493-4faa-8c96-5e108006cfbe
+1657545514938:view-balance c1f38e9d-d493-4faa-8c96-5e108006cfbe
+1657545524521:deposit c1f38e9d-d493-4faa-8c96-5e108006cfbe 34
+1657545531226:view-balance c1f38e9d-d493-4faa-8c96-5e108006cfbe
+1657545548639:helpp
+1657545549890:help
+1657545558513:user-account 4
+1657545563281:user-accoutns 4
+1657545568470:user-accounts
+1657545571698:user-accounts 4
+1657545814492:view-balance
+1657545818437:view-balance c1f38e9d-d493-4faa-8c96-5e108006cfbe
+1657546035318:withdraw
+1657546039546:withdraw c1f38e9d-d493-4faa-8c96-5e108006cfbe
+1657546045575:withdraw c1f38e9d-d493-4faa-8c96-5e108006cfbe 10.0
+1657547812844:view--balance  @OneToMany(cascade = CascadeType.ALL, mappedBy="owner")
+1657547819012:get-accounts 3
+1657547823013:help
+1657547825316:get-accounts
+1657547833267:user-accounts
+1657547836756:user-accounts 4
+1657547849599:deposit eec96b97-a023-4b5b-bd86-14e6328d78b3 10.0
+1657549219146:help
+1657549227640:user-accounts 4
+1657549237179:view-balance eec96b97-a023-4b5b-bd86-14e6328d78b3
